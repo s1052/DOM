@@ -49,14 +49,14 @@ for(let key in student){
 //PRACTICE SET 1
 //CREATE A GAME.........???
 
-// let gameNum = 25;
-// let userNum = prompt("guess the game number:");
-// console.log(userNum);
+let gameNum = 25;
+let userNum = prompt("guess the game number:");
+console.log(userNum);
 
-// while(userNum != gameNum){
-//    userNum =  prompt("You entered wrong number . Guess it again:")
-// }
-//     console.log("Congratulations you entered a right number")
+while(userNum != gameNum){
+   userNum =  prompt("You entered wrong number . Guess it again:")
+}
+    console.log("Congratulations you entered a right number")
 
 
   //STRINGS
